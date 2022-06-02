@@ -5,3 +5,5 @@
         <a href="https://instagram.com/woutervernaillen">instagram</a>
     </samp>
 </p>
+
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vernaillen&layout=compact)
