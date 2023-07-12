@@ -1,6 +1,6 @@
 <p align="center">
     <samp>
-        <a href="https://links.wouter.net">links.wouter.net</a> -
+        <a href="https://links.vernaillen.com">links.vernaillen.com</a> -
         <a href="https://www.vernaillen.dev">vernaillen.dev</a> -
         <a href="https://www.linkedin.com/in/woutervernaillen/">linkedin</a> -
         <a href="https://instagram.com/woutervernaillen">instagram</a> -
