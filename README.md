@@ -9,7 +9,7 @@
 I'm a freelance Full-Stack developer, specialising in Nuxt front-end development and Java/Spring back-end development.
 
 <p>
-    <div><a href="https://bio.wouter.net">bio.wouter.net</a></div>
+    <div><a href="https://linktree.vernaillen.dev">my linktree</a></div>
     <div><a href="https://vernaillen.dev">vernaillen.dev</a></div>
     <br>
     <div><a href="https://www.linkedin.com/in/woutervernaillen/">linkedin</a></div>
